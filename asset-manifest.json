@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DeepakChavan219/React_project/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/DeepakChavan219/React_project/static/js/main.66bad5e4.chunk.js",
+    "main.js.map": "/DeepakChavan219/React_project/static/js/main.66bad5e4.chunk.js.map",
+    "runtime-main.js": "/DeepakChavan219/React_project/static/js/runtime-main.8f7a90df.js",
+    "runtime-main.js.map": "/DeepakChavan219/React_project/static/js/runtime-main.8f7a90df.js.map",
+    "static/js/2.fdfdac14.chunk.js": "/DeepakChavan219/React_project/static/js/2.fdfdac14.chunk.js",
+    "static/js/2.fdfdac14.chunk.js.map": "/DeepakChavan219/React_project/static/js/2.fdfdac14.chunk.js.map",
+    "static/js/3.3a6e8d36.chunk.js": "/DeepakChavan219/React_project/static/js/3.3a6e8d36.chunk.js",
+    "static/js/3.3a6e8d36.chunk.js.map": "/DeepakChavan219/React_project/static/js/3.3a6e8d36.chunk.js.map",
+    "static/js/4.327cde1a.chunk.js": "/DeepakChavan219/React_project/static/js/4.327cde1a.chunk.js",
+    "static/js/4.327cde1a.chunk.js.map": "/DeepakChavan219/React_project/static/js/4.327cde1a.chunk.js.map",
+    "index.html": "/DeepakChavan219/React_project/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/DeepakChavan219/React_project/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.fdfdac14.chunk.js.LICENSE.txt": "/DeepakChavan219/React_project/static/js/2.fdfdac14.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DeepakChavan219/React_project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f7a90df.js",
+    "static/js/2.fdfdac14.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.66bad5e4.chunk.js"
+  ]
+}
